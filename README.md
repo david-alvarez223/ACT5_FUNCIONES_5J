@@ -7,5 +7,6 @@ Ejemplo de uso de funciones w3schools
 ## otro ejemplo
 - ![imagen](https://github.com/user-attachments/assets/6491ae99-10ca-4878-afd3-7ebc1c3c7003)
 ## Resultado
-- ![imagen](https://github.com/user-attachments/assets/c3f252a7-ed30-4fc3-92b7-df9b575e7140)
+- ![imagen](https://github.com/user-attachments/assets/a99e73cd-c9e6-4a75-b9b4-949ea3886c38)
+
 
